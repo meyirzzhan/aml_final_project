@@ -27,6 +27,8 @@ jupyter notebook faster_rcnn_for_sign_detection.ipynb **FASTER R-CNN**
 jupyter notebook yolov8_for_sign_detection.ipynb **YOLOV8**
 jupyter notebook webcam_test_signs.ipynb **TESTING YOLOV8 with webcam**
 
+for using  **webcam_test_signs.ipynb** run Yolov8 and get best.onnx model! Make sure the file path is correct!
+
 #Metrics
 In this project, we use the following metrics to evaluate the performance of the models:
 
