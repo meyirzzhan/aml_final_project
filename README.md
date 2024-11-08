@@ -12,10 +12,11 @@ This project focuses on training and comparing two different architectures for o
 
 
 # DOWNLOAD DATASET
+
 !curl -L "https://universe.roboflow.com/ds/MTYIKt7Lm7?key=vmsvtxlL9O" > roboflow.zip
 !unzip roboflow.zip -d ./dataset
 
-**use this commands to download dataset **
+**use this commands to download dataset**
 
 
 # USAGE
